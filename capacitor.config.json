@@ -1,0 +1,7 @@
+{
+  "appId": "com.alexis.ai",
+  "appName": "ALEXIES AI",
+  "webDir": "dist",
+  "backgroundColor": "#070b16",
+  "plugins": {"SplashScreen": {"launchShowDuration": 0}}
+}
